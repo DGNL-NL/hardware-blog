@@ -5,8 +5,8 @@
     
     <entry>
       <title>示例：2026年8月月记（月记模板）</title>
-      <link href="/2026/08/23/monthly-report-example/"/>
-      <url>/2026/08/23/monthly-report-example/</url>
+      <link href="/hardware-blog/2026/08/23/monthly-report-example/"/>
+      <url>/hardware-blog/2026/08/23/monthly-report-example/</url>
       
         <content type="html"><![CDATA[<blockquote><p>这是”月记”栏目的模板文章，做阶段总结用。</p></blockquote><h2 id="本月做了什么"><a href="#本月做了什么" class="headerlink" title="本月做了什么"></a>本月做了什么</h2><ul><li>完成 XXX 项目</li><li>学完 XXX</li><li>参加了 XXX 活动</li></ul><h2 id="踩坑与成长"><a href="#踩坑与成长" class="headerlink" title="踩坑与成长"></a>踩坑与成长</h2><p>记录这个月遇到的问题和学到的经验。</p><h2 id="下月计划"><a href="#下月计划" class="headerlink" title="下月计划"></a>下月计划</h2><ul><li><input disabled="" type="checkbox"> 任务 1</li><li><input disabled="" type="checkbox"> 任务 2</li><li><input disabled="" type="checkbox"> 任务 3</li></ul>]]></content>
       
@@ -32,8 +32,8 @@
     
     <entry>
       <title>示例：电赛备赛总结（电赛传承模板）</title>
-      <link href="/2026/08/23/electric-competition-example/"/>
-      <url>/2026/08/23/electric-competition-example/</url>
+      <link href="/hardware-blog/2026/08/23/electric-competition-example/"/>
+      <url>/hardware-blog/2026/08/23/electric-competition-example/</url>
       
         <content type="html"><![CDATA[<blockquote><p>这是”电赛传承”栏目的模板文章，记录比赛经验与备赛方法。</p></blockquote><h2 id="赛前准备清单"><a href="#赛前准备清单" class="headerlink" title="赛前准备清单"></a>赛前准备清单</h2><ul><li>常用模块清单（电源、驱动、显示、传感器）</li><li>工具与耗材备货</li><li>往年真题分析</li></ul><h2 id="比赛流程与分工"><a href="#比赛流程与分工" class="headerlink" title="比赛流程与分工"></a>比赛流程与分工</h2><ul><li>三天四夜的时间规划</li><li>硬件&#x2F;软件&#x2F;视觉分工建议</li><li>文档与报告书写要点</li></ul><h2 id="踩坑合集"><a href="#踩坑合集" class="headerlink" title="踩坑合集"></a>踩坑合集</h2><p>按”现象 -&gt; 排查 -&gt; 解决 -&gt; 经验”格式记录比赛中的真实问题。</p><h2 id="赛后复盘"><a href="#赛后复盘" class="headerlink" title="赛后复盘"></a>赛后复盘</h2><p>哪些准备是有用的、哪些是白费的、下次怎么改进。</p>]]></content>
       
@@ -47,11 +47,11 @@
       
         <tags>
             
-            <tag> 示例 </tag>
-            
             <tag> 电赛 </tag>
             
             <tag> 备赛 </tag>
+            
+            <tag> 示例 </tag>
             
         </tags>
       
@@ -61,8 +61,8 @@
     
     <entry>
       <title>示例：Keil 使用心得（软件心得模板）</title>
-      <link href="/2026/08/23/keil-notes-example/"/>
-      <url>/2026/08/23/keil-notes-example/</url>
+      <link href="/hardware-blog/2026/08/23/keil-notes-example/"/>
+      <url>/hardware-blog/2026/08/23/keil-notes-example/</url>
       
         <content type="html"><![CDATA[<blockquote><p>这是”软件心得”栏目的模板文章，记录你学习某个软件&#x2F;工具的过程与心得。</p></blockquote><h2 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h2><p>Keil MDK 是什么、用来做什么。</p><h2 id="上手过程"><a href="#上手过程" class="headerlink" title="上手过程"></a>上手过程</h2><p>从安装到第一个工程，记录关键步骤和踩过的坑。</p><h2 id="常用技巧"><a href="#常用技巧" class="headerlink" title="常用技巧"></a>常用技巧</h2><ul><li>快捷键整理</li><li>常用配置（字体、编码、自动补全）</li><li>调试技巧（断点、Watch 窗口、寄存器查看）</li></ul><h2 id="踩坑记录"><a href="#踩坑记录" class="headerlink" title="踩坑记录"></a>踩坑记录</h2><p>按”现象 -&gt; 排查 -&gt; 解决 -&gt; 经验”格式记录。</p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>这个软件让我掌握了什么能力。</p>]]></content>
       
@@ -76,11 +76,11 @@
       
         <tags>
             
+            <tag> 示例 </tag>
+            
             <tag> Keil </tag>
             
             <tag> 工具 </tag>
-            
-            <tag> 示例 </tag>
             
         </tags>
       
@@ -90,8 +90,8 @@
     
     <entry>
       <title>示例：STM32 最小系统板设计（项目分享模板）</title>
-      <link href="/2026/08/23/stm32-min-system-example/"/>
-      <url>/2026/08/23/stm32-min-system-example/</url>
+      <link href="/hardware-blog/2026/08/23/stm32-min-system-example/"/>
+      <url>/hardware-blog/2026/08/23/stm32-min-system-example/</url>
       
         <content type="html"><![CDATA[<blockquote><p>这是”项目分享”栏目的模板文章，用于展示项目文章应该包含哪些内容。写新项目时复制这个结构即可。</p></blockquote><h2 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h2><p>一句话说清楚这个项目是什么、解决什么问题。</p><h2 id="技术方案"><a href="#技术方案" class="headerlink" title="技术方案"></a>技术方案</h2><ul><li>主控选型及理由</li><li>关键电路设计思路</li><li>软件架构简述</li></ul><h2 id="代码仓库"><a href="#代码仓库" class="headerlink" title="代码仓库"></a>代码仓库</h2><p>[GitHub 链接]</p><h2 id="遇到的问题与解决"><a href="#遇到的问题与解决" class="headerlink" title="遇到的问题与解决"></a>遇到的问题与解决</h2><h3 id="问题-1：上电后芯片发烫"><a href="#问题-1：上电后芯片发烫" class="headerlink" title="问题 1：上电后芯片发烫"></a>问题 1：上电后芯片发烫</h3><p><strong>现象</strong>：3.3V 对地短路，芯片发烫。</p><p><strong>排查</strong>：用万用表蜂鸣档测 3.3V 与 GND，短路；检查焊接，发现电容焊反。</p><p><strong>解决</strong>：重新焊接，问题解决。</p><p><strong>经验</strong>：贴片电容无极性标注时要仔细核对封装，上电前先量短路。</p><h3 id="问题-2：串口乱码"><a href="#问题-2：串口乱码" class="headerlink" title="问题 2：串口乱码"></a>问题 2：串口乱码</h3><p><strong>现象</strong>：串口输出乱码。</p><p><strong>排查</strong>：检查波特率配置、晶振频率。</p><p><strong>解决</strong>：CubeMX 中时钟配置错误，修正后正常。</p><p><strong>经验</strong>：串口乱码 90% 是波特率或时钟配置问题。</p><h2 id="总结与收获"><a href="#总结与收获" class="headerlink" title="总结与收获"></a>总结与收获</h2><p>这个项目让我掌握了什么，下次可以怎么优化。</p>]]></content>
       
